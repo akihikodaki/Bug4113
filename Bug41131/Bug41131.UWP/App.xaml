@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Bug41131.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Bug41131.UWP"
+    RequestedTheme="Light">
+
+</Application>
